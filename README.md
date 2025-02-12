@@ -1,5 +1,5 @@
 # Music_Store_Analysis_Using_SQL
-SQL project to analyze online music store data. The project includes problem statments for easy to advance queries.
+SQL project to analyze online music store data. The project includes problem statements for easy to advanced queries.
 
 # Database and Tools
 * MySql Work Bench
